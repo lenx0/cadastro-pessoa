@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Thiago de Freitas Beraldo",
+    "address": "Rua Guadalajara 327",
+    "phoneNumber": "333-333-222-111",
+    "email": "tdfb_123@hotmail.com"
+  },
+
+  {
+    "id": 2,
+    "name": "Danielle James",
+    "address": "Rua Floresta 2154",
+    "phoneNumber": "908-422-255-772",
+    "email": "dani.james@hotmail.com"
+  },
+
+  {
+    "id": 3,
+    "name": "monica@outlook.com.br",
+    "address": "Rua Trinidad 239",
+    "phoneNumber": "123-456-789-999",
+    "email": "thiagofreitas1106@gmail.com"
+  },
+
+  {
+    "id": 4,
+    "name": "Fernanda de Freitas Beraldo",
+    "address": "Av Brasil 655",
+    "phoneNumber": "239-098-678-999",
+    "email": "fernanda@yahoo.com.br"
+  }
+]
